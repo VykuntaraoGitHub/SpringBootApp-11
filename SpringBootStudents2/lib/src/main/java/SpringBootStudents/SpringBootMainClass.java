@@ -10,6 +10,7 @@ public class SpringBootMainClass {
 		SpringApplication.run(SpringBootMainClass.class, args);
 		
 		System.out.println("Spring boot main class output---g");
+		Sysout
 	}
 
 }
