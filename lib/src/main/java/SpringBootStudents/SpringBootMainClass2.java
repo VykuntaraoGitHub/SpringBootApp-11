@@ -10,6 +10,7 @@ public class SpringBootMainClass2 {
 		SpringApplication.run(SpringBootMainClass2.class, args);
 		
 		System.out.println("Spring boot main class output");
+		//jkdslf;sjwl;e vykuntarao 
 		System.out.println(" for commit pupose 6666");
 		System.out.println(" for commit pupose 77777");
 		System.out.println(" for commit pupose 8888");
